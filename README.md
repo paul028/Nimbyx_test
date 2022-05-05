@@ -13,8 +13,8 @@ The jupyter notebook implements a simple KNN with N number of neighbors selected
 
 Dependencies:
 
-Scikit-learn
-Pandas
-Matplotlib
-Numpy
+Scikit-learn\n
+Pandas\n
+Matplotlib\n
+Numpy\n
 Pickie
